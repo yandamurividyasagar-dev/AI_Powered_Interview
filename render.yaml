@@ -3,5 +3,5 @@ services:
     name: AI_Powered_Interview_Frontend
     env: static
     rootDir: client
-    buildCommand: npm install && npx --yes vite build
+    buildCommand: npm ci && npx --yes vite build
     staticPublishPath: dist
