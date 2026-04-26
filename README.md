@@ -2,7 +2,7 @@
 Practice like it's real. Get feedback like it matters. Resume-based questions, voice interviews, live coding, and instant AI feedback. All in one place.
 
 ## 🚀 Live Demo
-➜ **Try it live → [ai-mock-interview.onrender.com](https://ai-mock-interview.onrender.com)**
+➜ **Try it live → [ai-mock-interview.onrender.com](https://ai-powered-interview-frotend.onrender.com/)**
 
 No installation needed. Open the link, sign in with Google, and start your interview instantly.
 
